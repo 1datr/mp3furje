@@ -1,0 +1,11 @@
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\bin\Debug\mp3furje.exe
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\bin\Debug\mp3furje.pdb
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\bin\Debug\NAudio.dll
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\bin\Debug\NAudio.WindowsMediaFormat.dll
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\bin\Debug\NAudio.xml
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\obj\x86\Debug\mp3furje.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\obj\x86\Debug\mp3furje.Form1.resources
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\obj\x86\Debug\mp3furje.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\obj\x86\Debug\mp3furje.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\obj\x86\Debug\mp3furje.exe
+c:\users\anton\documents\visual studio 2010\Projects\mp3furje\mp3furje\obj\x86\Debug\mp3furje.pdb
